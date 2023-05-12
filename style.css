@@ -1,0 +1,72 @@
+form {
+    text-align: center;
+    width: 400px;
+    margin-top:200px;
+    margin-left: 400px;
+}
+
+h1 {
+    text-align: left;
+}
+
+p {
+    text-align: left;
+}
+
+#password {
+    text-align: left;
+    margin-left: 45px;
+}
+
+#link {
+    padding-left: 150px;
+}
+
+button {
+    background-color: orange;
+    width: 400px;
+    margin: 10px;
+    padding: 5px;
+}
+
+input {
+    width: 400px;
+    padding:5px ;
+}
+
+ul {
+    text-align: left;
+    margin-left: 1px;
+    list-style-type: none;
+}
+
+a {
+    color: blue;
+}
+
+#amazon {
+    text-align: center;
+    color: grey;
+    margin-top: 5px;
+    margin-left: 15px;
+
+}
+
+#account {
+    text-align: center;
+    background-color: lightgrey;
+    margin-left: 400px;
+    width: 450px; 
+}
+
+hr {
+    margin: 10px;
+}
+
+#policy {
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+}
